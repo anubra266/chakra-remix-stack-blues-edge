@@ -1,0 +1,6 @@
+
+Todo:
+  Implement Triggers to update `updated_at` when a field is  updated. Roadmap here: https://www.edgedb.com/roadmap#data-model
+  When User changes password, create a new record and set current date as `retired_at` field of previous password. (password history)
+  
+
