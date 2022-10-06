@@ -45,7 +45,7 @@ Not a fan of bits of the stack? Fork it, change it, and use `npx create-remix --
 - Initial setup:
 
   ```sh
-  pnpm setup
+  edgedb project init
   ```
 
   Setup edge-ql 
